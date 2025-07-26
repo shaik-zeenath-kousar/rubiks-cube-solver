@@ -4,10 +4,14 @@ Rubik's Cube Solver - Design Dexterity Challenge (Round 03)
 👤 Name: Zeenath Kousar Shaik  
 🎓 Status: Participant, Collins Aerospace Design Dexterity Challenge  
 📁 Submission Contents:
-├── RubiksCubeSolver.pptx           # Presentation with explanation and logic
-├── cube_solver.py                  # Python script simulating cube solving
-├── output_example.png              # Sample output screenshot
-└── README.txt                      # (This file)
+├── RubiksCubeSolver.pptx 
+
+├── cube_solver.py   
+
+├── output_example.png 
+
+
+└── README.txt        
 
 -------------------------------------------------------------
 📌 Problem Statement:
