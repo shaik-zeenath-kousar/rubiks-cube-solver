@@ -9,7 +9,7 @@ Rubik's Cube Solver - Design Dexterity Challenge (Round 03)
 
 ├── cube_solver.py   
 
-├── output_example.png 
+├── output.png 
 
 
 └── README.txt        
